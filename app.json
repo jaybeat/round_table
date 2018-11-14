@@ -1,0 +1,18 @@
+{
+    "pages": [
+      "pages/index/index",
+        "pages/live-phone/roomlist/roomlist",
+        "pages/live-phone/roomname/roomname",
+        "pages/live-phone/room/liveroom"
+    ],
+    "networkTimeout": {
+        "request": 60000
+    },
+    "window": {
+        "backgroundColor": "#888",
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#000",
+        "navigationBarTitleText": "圆桌读书",
+        "navigationBarTextStyle": "#fff"
+    }
+}

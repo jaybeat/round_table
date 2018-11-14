@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "圆桌",
+    "usingComponents": {
+        "live-room": "/pages/components/live-room/liveroom"
+    }
+}
